@@ -1,0 +1,42 @@
+html{
+    height: 100%;
+}
+body{
+    background: -webkit-linear-gradient(45deg, #535E7E, transparent);
+    background: -moz-linear-gradient(45deg, #535E7E, transparent);
+    background: -ms-linear-gradient(45deg, #535E7E, transparent);
+    background: -o-linear-gradient(45deg, #535E7E, transparent);
+    background: linear-gradient(45deg, #535E7E, transparent);
+}
+
+h1{
+    font-size: 30px;
+}
+
+.center{
+    text-align: center;
+}
+
+.text{
+    font-size:25px;
+    margin: 5px;
+}
+
+.border {
+    padding: 12px;
+    border: 3px solid red;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.buttons{
+    padding: 5px 20px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.dropDown{
+    font-size: 20px;
+    padding: 5px 10px;
+    margin: 10px;
+}
